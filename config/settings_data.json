@@ -2,10 +2,10 @@
   "current": {
     "logo": "shopify:\/\/shop_images\/SC_LOGO.png",
     "logo_width": 90,
-    "type_header_font": "assistant_n4",
-    "heading_scale": 110,
+    "type_header_font": "sans-serif",
+    "heading_scale": 130,
     "type_body_font": "sans-serif",
-    "body_scale": 120,
+    "body_scale": 100,
     "page_width": 1200,
     "spacing_sections": 0,
     "spacing_grid_horizontal": 8,
@@ -216,12 +216,12 @@
       "scheme-8e8bb6c2-a643-4976-8ba0-12c678e28427": {
         "settings": {
           "background": "#fdf8cc",
-          "background_gradient": "linear-gradient(88deg, rgba(253, 248, 204, 1), rgba(167, 34, 42, 1) 90%)",
-          "text": "#000000",
-          "button": "#121212",
+          "background_gradient": "",
+          "text": "#ffffff",
+          "button": "#c50000",
           "button_label": "#ffffff",
-          "secondary_button_label": "#121212",
-          "shadow": "#121212"
+          "secondary_button_label": "#ffffff",
+          "shadow": "#f3f3f3"
         }
       }
     }
@@ -417,5 +417,10 @@
         }
       }
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      "\/* Adjust the product title size and font for featured collection sections *\/.card__heading a {font-size: 20px; font-family: \"YourCustomFont\", sans-serif;}"
+    ]
   }
 }

@@ -3566,3 +3566,10 @@ details-disclosure > details {
     transform: translateX(100%) scaleX(0);
   }
 }
+
+.product__return-policy {
+  font-size: 0.875rem; /* Adjust size as needed */
+  color: #666; /* Adjust color as needed */
+  margin-top: 1px; /* Space between button and text */
+  text-align: center; /* Center align the text if desired */
+}
