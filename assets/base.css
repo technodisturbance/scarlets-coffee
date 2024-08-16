@@ -3567,6 +3567,7 @@ details-disclosure > details {
   }
 }
 
+/* Styling for the text underneath the 'Add to cart' button on the Product pages. */
 .product__return-policy {
   font-size: 0.875rem; /* Adjust size as needed */
   color: #666; /* Adjust color as needed */
