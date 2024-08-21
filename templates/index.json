@@ -1,0 +1,129 @@
+{
+  "sections": {
+    "slideshow_jmgeMX": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_W9Faef": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SS_BANNER_01_b.png",
+            "heading": "<em>Scarlet's Coffee<\/em>",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "Shop our Coffee",
+            "link": "shopify:\/\/collections\/all",
+            "button_style_secondary": false,
+            "box_align": "bottom-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 20,
+            "color_scheme": "scheme-8e8bb6c2-a643-4976-8ba0-12c678e28427",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_bxTJFM": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SS_BANNER_02_blend.png",
+            "heading": "<em>Discover the Magic!<\/em>",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "Shop our Coffee",
+            "link": "shopify:\/\/collections\/all",
+            "button_style_secondary": false,
+            "box_align": "top-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 20,
+            "color_scheme": "scheme-8e8bb6c2-a643-4976-8ba0-12c678e28427",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_ieVRQ7": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SS_BANNER_03.jpg",
+            "heading": "<em>Magic in every Sip!<\/em>",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "Shop our Coffee",
+            "link": "shopify:\/\/collections\/all",
+            "button_style_secondary": false,
+            "box_align": "top-left",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 20,
+            "color_scheme": "scheme-8e8bb6c2-a643-4976-8ba0-12c678e28427",
+            "text_alignment_mobile": "left"
+          }
+        },
+        "slide_bByQRw": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SS_BANNER_04.jpg",
+            "heading": "<em>A sip to remember forever!<\/em>",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "Shop our Coffee",
+            "link": "shopify:\/\/collections\/all",
+            "button_style_secondary": false,
+            "box_align": "top-right",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 20,
+            "color_scheme": "scheme-8e8bb6c2-a643-4976-8ba0-12c678e28427",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_W9Faef",
+        "slide_bxTJFM",
+        "slide_ieVRQ7",
+        "slide_bByQRw"
+      ],
+      "settings": {
+        "layout": "grid",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all",
+        "products_to_show": 24,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 44,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "slideshow_jmgeMX",
+    "featured_collection"
+  ]
+}
