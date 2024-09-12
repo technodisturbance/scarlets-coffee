@@ -21,3 +21,8 @@
   width: 52.5rem;
   height: 52.5rem;
 }
+
+
+.h0 {
+  font-size: calc(var(--font-heading-scale) * 2.5rem);
+}
