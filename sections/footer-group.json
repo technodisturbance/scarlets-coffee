@@ -4,6 +4,9 @@
   "sections": {
     "footer": {
       "type": "footer",
+      "custom_css": [
+        ".footer__copyright {max-width: fit-content; margin-left: auto; margin-right: auto;}"
+      ],
       "settings": {
         "color_scheme": "scheme-1",
         "newsletter_enable": false,
