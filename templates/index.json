@@ -1,1 +1,162 @@
-{"sections":{"slideshow_jmgeMX":{"type":"slideshow","blocks":{"slide_bxTJFM":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/Default_Create_a_hyperrealistic_cinematic_magical_featuring_a_0_2_e614b4c8-4049-4a36-ac1e-eca64fac9614.jpg","heading":"","heading_size":"h2","subheading":"","button_label":"Shop our Coffee","link":"shopify:\/\/collections\/scarlets-coffee-bags","button_style_secondary":false,"box_align":"bottom-right","show_text_box":false,"text_alignment":"right","image_overlay_opacity":0,"color_scheme":"scheme-aba9512e-d06a-4299-892f-e8ee9233b6a0","text_alignment_mobile":"center"}},"slide_W9Faef":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/Leonardo_Lightning_Create_a_hyperrealistic_cinematic_magical_f_0_88ed3885-c767-4d24-95fc-e31a5c0b5b5b.jpg","heading":"","heading_size":"h2","subheading":"","button_label":"Shop our Coffee","link":"shopify:\/\/collections\/scarlets-coffee-bags","button_style_secondary":false,"box_align":"bottom-right","show_text_box":false,"text_alignment":"right","image_overlay_opacity":0,"color_scheme":"scheme-aba9512e-d06a-4299-892f-e8ee9233b6a0","text_alignment_mobile":"center"}},"slide_ieVRQ7":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/Leonardo_Phoenix_Create_a_hyperrealistic_cinematic_magical_and_12_df438aa0-d832-4c7e-a08a-106b4c55c8df.jpg","heading":"","heading_size":"h2","subheading":"","button_label":"Shop our Coffee","link":"shopify:\/\/collections\/scarlets-coffee-bags","button_style_secondary":false,"box_align":"bottom-right","show_text_box":false,"text_alignment":"right","image_overlay_opacity":0,"color_scheme":"scheme-aba9512e-d06a-4299-892f-e8ee9233b6a0","text_alignment_mobile":"center"}},"slide_bByQRw":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/Default_Create_a_hyperrealistic_cinematic_magical_featuring_a_0_1_ca8159af-09fe-477a-941e-0f82cf2354c7.jpg","heading":"","heading_size":"h2","subheading":"","button_label":"Shop our Coffee","link":"shopify:\/\/collections\/scarlets-coffee-bags","button_style_secondary":false,"box_align":"bottom-right","show_text_box":false,"text_alignment":"right","image_overlay_opacity":0,"color_scheme":"scheme-aba9512e-d06a-4299-892f-e8ee9233b6a0","text_alignment_mobile":"center"}}},"block_order":["slide_bxTJFM","slide_W9Faef","slide_ieVRQ7","slide_bByQRw"],"custom_css":[".slideshow__controls {display: none;}"],"settings":{"layout":"full_bleed","slide_height":"medium","slider_visual":"dots","auto_rotate":true,"change_slides_speed":5,"image_behavior":"none","show_text_below":true,"accessibility_info":"Slideshow about our brand"}},"featured_collection":{"type":"featured-collection","custom_css":["h3 {font-size: 20px;}"],"settings":{"title":"","heading_size":"h2","description":"","show_description":false,"description_style":"body","collection":"all","products_to_show":24,"columns_desktop":4,"full_width":true,"show_view_all":true,"view_all_style":"solid","enable_desktop_slider":false,"color_scheme":"scheme-1","image_ratio":"adapt","image_shape":"default","show_secondary_image":false,"show_vendor":false,"show_rating":false,"quick_add":"none","columns_mobile":"2","swipe_on_mobile":false,"padding_top":44,"padding_bottom":36}},"1725327391968ec0e3":{"type":"apps","blocks":{"judge_me_reviews_featured_carousel_f9BbAk":{"type":"shopify:\/\/apps\/judge-me-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8","settings":{"maxwidth":1080}}},"block_order":["judge_me_reviews_featured_carousel_f9BbAk"],"settings":{"include_margins":true}}},"order":["slideshow_jmgeMX","featured_collection","1725327391968ec0e3"]}
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "slideshow_jmgeMX": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_bxTJFM": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Default_Create_a_hyperrealistic_cinematic_magical_featuring_a_0_2_e614b4c8-4049-4a36-ac1e-eca64fac9614.jpg",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "Shop our Coffee",
+            "link": "shopify:\/\/collections\/scarlets-coffee-bags",
+            "button_style_secondary": false,
+            "box_align": "bottom-right",
+            "show_text_box": false,
+            "text_alignment": "right",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-aba9512e-d06a-4299-892f-e8ee9233b6a0",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_W9Faef": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Leonardo_Lightning_Create_a_hyperrealistic_cinematic_magical_f_0_88ed3885-c767-4d24-95fc-e31a5c0b5b5b.jpg",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "Shop our Coffee",
+            "link": "shopify:\/\/collections\/scarlets-coffee-bags",
+            "button_style_secondary": false,
+            "box_align": "bottom-right",
+            "show_text_box": false,
+            "text_alignment": "right",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-aba9512e-d06a-4299-892f-e8ee9233b6a0",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_ieVRQ7": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Leonardo_Phoenix_Create_a_hyperrealistic_cinematic_magical_and_12_df438aa0-d832-4c7e-a08a-106b4c55c8df.jpg",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "Shop our Coffee",
+            "link": "shopify:\/\/collections\/scarlets-coffee-bags",
+            "button_style_secondary": false,
+            "box_align": "bottom-right",
+            "show_text_box": false,
+            "text_alignment": "right",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-aba9512e-d06a-4299-892f-e8ee9233b6a0",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_bByQRw": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Default_Create_a_hyperrealistic_cinematic_magical_featuring_a_0_1_ca8159af-09fe-477a-941e-0f82cf2354c7.jpg",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "Shop our Coffee",
+            "link": "shopify:\/\/collections\/scarlets-coffee-bags",
+            "button_style_secondary": false,
+            "box_align": "bottom-right",
+            "show_text_box": false,
+            "text_alignment": "right",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-aba9512e-d06a-4299-892f-e8ee9233b6a0",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_bxTJFM",
+        "slide_W9Faef",
+        "slide_ieVRQ7",
+        "slide_bByQRw"
+      ],
+      "custom_css": [
+        ".slideshow__controls {display: none;}"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "dots",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "custom_css": [
+        "h3 {font-size: 20px;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "scarlets-coffee-bags",
+        "products_to_show": 24,
+        "columns_desktop": 4,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 44,
+        "padding_bottom": 36
+      }
+    },
+    "1725327391968ec0e3": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_featured_carousel_f9BbAk": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "maxwidth": 1080
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_featured_carousel_f9BbAk"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    }
+  },
+  "order": [
+    "slideshow_jmgeMX",
+    "featured_collection",
+    "1725327391968ec0e3"
+  ]
+}
