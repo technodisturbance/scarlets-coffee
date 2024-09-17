@@ -1,1 +1,18 @@
-{% section 'our-story' %}
+{% layout 'theme' %}  <!-- Ensure your layout is set to use the theme -->
+
+{{ 'section-main-page.css' | asset_url | stylesheet_tag }} <!-- Link to the main stylesheet -->
+
+<div class="color-{{ settings.color_scheme }} gradient">
+  <div class="page-width page-width--narrow">
+    <h2 class="page-title {{ settings.heading_size }}">
+      Our Story
+    </h2>
+
+    <div class="rte">
+      {% section 'custom-siren-city-origin' %}
+      {% section 'custom-city-of-song' %}
+      {% section 'custom-enchanted-inhabitants' %}
+      {% section 'custom-magical-mix' %}
+    </div>
+  </div>
+</div>
