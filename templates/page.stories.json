@@ -23,7 +23,7 @@
         "heading_8Wp69V": {
           "type": "heading",
           "settings": {
-            "heading": "The Story of Scarlet’s Coffee: A Symphony from Siren City",
+            "heading": "{{ page.metafields.custom.story_title.value }}",
             "heading_size": "h1"
           }
         }
