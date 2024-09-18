@@ -226,7 +226,7 @@
         "image_width": "full",
         "image_ratio": "circle",
         "columns_desktop": 5,
-        "column_alignment": "left",
+        "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
@@ -327,14 +327,14 @@
       "settings": {
         "title": "",
         "heading_size": "h1",
-        "image_width": "full",
+        "image_width": "half",
         "image_ratio": "circle",
         "columns_desktop": 3,
-        "column_alignment": "left",
+        "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "",
+        "color_scheme": "scheme-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
@@ -388,6 +388,51 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "multicolumn_JhBM4f": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_fjCCHA": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/About_Coffee-Roasting-Drying-Phase.webp",
+            "title": "<strong>Drying Phase<\/strong>",
+            "text": "<p>At approximately 160°C (320°F), The moisture in the beans starts to evaporate. The beans become yellow, and there is a slight increase in size.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_BXdwQU": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/About_Coffee-Roasting-Browning-Phase.webp",
+            "title": "<strong>Browning Phase<\/strong>",
+            "text": "<p>The beans lose moisture, turning light brown. Sugars caramelize, proteins break down in Maillard reaction for flavor development.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_fjCCHA",
+        "column_BXdwQU"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "circle",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -398,6 +443,7 @@
     "multicolumn_zzKDCj",
     "image_with_text_x4pGtk",
     "multicolumn_MM7QPY",
-    "image_with_text_JTTKJD"
+    "image_with_text_JTTKJD",
+    "multicolumn_JhBM4f"
   ]
 }
