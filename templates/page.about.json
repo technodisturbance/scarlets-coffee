@@ -340,6 +340,54 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "image_with_text_JTTKJD": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_GFNFjy": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Coffee Roast",
+            "heading_size": "h1"
+          }
+        },
+        "text_PrXXRJ": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Roasting brings out the flavor, aroma, and color of the coffee beans. The green beans have little aroma or taste, and it's the roasting process that develops these characteristics.<\/strong><\/p>",
+            "text_style": "subtitle"
+          }
+        },
+        "button_pNRfmY": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_GFNFjy",
+        "text_PrXXRJ",
+        "button_pNRfmY"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/About_Coffee-Roasting2.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -349,6 +397,7 @@
     "image_with_text_GaMVNK",
     "multicolumn_zzKDCj",
     "image_with_text_x4pGtk",
-    "multicolumn_MM7QPY"
+    "multicolumn_MM7QPY",
+    "image_with_text_JTTKJD"
   ]
 }
