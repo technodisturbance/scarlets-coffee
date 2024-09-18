@@ -481,6 +481,84 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "multicolumn_KkL7Td": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_NKJeUF": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/About_Coffee-Preparation-Manual.webp",
+            "title": "<strong>Manual<\/strong>",
+            "text": "<p>Manual brewing involves brewing coffee without the use of electric machines. Such as a <strong>French Press<\/strong> or <strong>Aero Press<\/strong>.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Lpp9rB": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/About_Coffee-Preparation-Espresso.webp",
+            "title": "<strong>Espresso<\/strong>",
+            "text": "<p>Espresso is made by forcing a small amount of nearly boiling water through finely-ground coffee beans using an <strong>Espresso Machine<\/strong>.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_phbUbd": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/About_Coffee-Preparation-Cold-Brew.webp",
+            "title": "<strong>Cold Brew<\/strong>",
+            "text": "<p>Cold brew is coffee brewed slowly using cold or room-temperature water over an extended period (typically 12-24 hours).<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_fmWkaE": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/About_Coffee-Preparation-Brewed.webp",
+            "title": "<strong>Brewed<\/strong>",
+            "text": "<p>Drip coffee is the most common method of brewing, especially in households and offices, using an <strong>Automatic Drip Machine<\/strong>.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_pRcfXL": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/About_Coffee-Preparation-Specialty.webp",
+            "title": "<strong>Specialty<\/strong>",
+            "text": "<p>Specialty methods refer to unique brewing styles like <strong>Siphon Brewing<\/strong>, <strong>Turkish Coffee<\/strong>, and <strong>Moka Pot<\/strong>.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_NKJeUF",
+        "column_Lpp9rB",
+        "column_phbUbd",
+        "column_fmWkaE",
+        "column_pRcfXL"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "circle",
+        "columns_desktop": 5,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -493,6 +571,7 @@
     "multicolumn_MM7QPY",
     "image_with_text_JTTKJD",
     "multicolumn_JhBM4f",
-    "image_with_text_iFT3tr"
+    "image_with_text_iFT3tr",
+    "multicolumn_KkL7Td"
   ]
 }
