@@ -433,6 +433,54 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "image_with_text_iFT3tr": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_NajLdF": {
+          "type": "heading",
+          "settings": {
+            "heading": "Preparation",
+            "heading_size": "h1"
+          }
+        },
+        "text_YYPfnA": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Coffee preparation encompasses a variety of methods,each with its unique equipment, techniques, and resulting flavors.<\/strong><\/p>",
+            "text_style": "subtitle"
+          }
+        },
+        "button_qiqX4m": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_NajLdF",
+        "text_YYPfnA",
+        "button_qiqX4m"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/About_Coffee-Plant.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -444,6 +492,7 @@
     "image_with_text_x4pGtk",
     "multicolumn_MM7QPY",
     "image_with_text_JTTKJD",
-    "multicolumn_JhBM4f"
+    "multicolumn_JhBM4f",
+    "image_with_text_iFT3tr"
   ]
 }
