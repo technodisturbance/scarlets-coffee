@@ -124,8 +124,8 @@
         "text_mgP43h": {
           "type": "text",
           "settings": {
-            "text": "<p>Coffee beans are not actually beans but seeds of the coffee plant, specifically from the fruit known as coffee cherries.<\/p>",
-            "text_style": "body"
+            "text": "<p><strong>Coffee beans are not actually beans but seeds of the coffee plant, specifically from the fruit known as coffee cherries.<\/strong><\/p>",
+            "text_style": "subtitle"
           }
         },
         "button_BipkJx": {
@@ -246,7 +246,7 @@
           "type": "text",
           "settings": {
             "text": "<p><strong>A coffee plant, scientifically known as Coffea, is a genus of floweringplants in the family Rubiaceae.<\/strong><\/p>",
-            "text_style": "body"
+            "text_style": "subtitle"
           }
         },
         "button_UVW8UL": {
