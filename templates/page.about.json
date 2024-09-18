@@ -94,6 +94,7 @@
         "row_XH3bCp",
         "row_qTkHRR"
       ],
+      "disabled": true,
       "settings": {
         "image_height": "medium",
         "desktop_image_width": "medium",
@@ -109,11 +110,134 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "image_with_text_GaMVNK": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_TMCLDD": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Coffee Cherry",
+            "heading_size": "h1"
+          }
+        },
+        "text_mgP43h": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Coffee beans are not actually beans but seeds of the coffee plant, specifically from the fruit known as coffee cherries.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_BipkJx": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_TMCLDD",
+        "text_mgP43h",
+        "button_BipkJx"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/About_Coffee-Bean.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_MM7QPY": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Yw78nw": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Plant Origin<\/strong>",
+            "text": "<p>Coffee plants are members of the Coffea genus, with the two main commercially important species being Coffea arabica and Coffea canephora, also known as Robusta.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_xUM4M6": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Appearance<\/strong>",
+            "text": "<p>Coffee plants are shrubs or trees that can reach heights of 3 to 30 feet (1 to 9 meters), based on species and cultivation.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_c8VfMq": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Shape<\/strong>",
+            "text": "<p>Coffee seeds are oval to elongated. They are typically grown in tropical climates around the world.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_EWQGwU": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Size<\/strong>",
+            "text": "<p>On average, they measure 0.5 to 1.5 centimeters in length.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_6B4rWq": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Color<\/strong>",
+            "text": "<p>Upon harvest, the seeds are enclosed by a red or purple fruit. Post-processing, the seeds take on a green hue. The transformation to a brown color occurs only after roasting.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_Yw78nw",
+        "column_xUM4M6",
+        "column_c8VfMq",
+        "column_EWQGwU",
+        "column_6B4rWq"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 5,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
     "rich_text_JqQait",
-    "multirow_d7fXQV"
+    "multirow_d7fXQV",
+    "image_with_text_GaMVNK",
+    "multicolumn_MM7QPY"
   ]
 }
