@@ -159,10 +159,10 @@
         "padding_bottom": 36
       }
     },
-    "multicolumn_MM7QPY": {
+    "multicolumn_zzKDCj": {
       "type": "multicolumn",
       "blocks": {
-        "column_Yw78nw": {
+        "column_7VVkqa": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/480CE7DB-6589-443B-97F3-4A739148B1DA.webp",
@@ -172,7 +172,7 @@
             "link": ""
           }
         },
-        "column_xUM4M6": {
+        "column_p9fdKU": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/BB5ECBBD-6988-41BF-9113-C08638B72047.webp",
@@ -182,7 +182,7 @@
             "link": ""
           }
         },
-        "column_c8VfMq": {
+        "column_tKm7xW": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/733D625F-6A8A-477E-9CA6-5CD308E74DFD.webp",
@@ -192,7 +192,7 @@
             "link": ""
           }
         },
-        "column_EWQGwU": {
+        "column_tz8kjV": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/C06B45EE-7A59-4150-9CC7-3A4ADB69E79E.webp",
@@ -202,7 +202,7 @@
             "link": ""
           }
         },
-        "column_6B4rWq": {
+        "column_mr87Rk": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/2ADCA737-0C1A-4D17-AC50-872006124166.webp",
@@ -214,11 +214,11 @@
         }
       },
       "block_order": [
-        "column_Yw78nw",
-        "column_xUM4M6",
-        "column_c8VfMq",
-        "column_EWQGwU",
-        "column_6B4rWq"
+        "column_7VVkqa",
+        "column_p9fdKU",
+        "column_tKm7xW",
+        "column_tz8kjV",
+        "column_mr87Rk"
       ],
       "settings": {
         "title": "",
@@ -284,6 +284,62 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "multicolumn_MM7QPY": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Yw78nw": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/About_Coffee-Plant-Appearance.webp",
+            "title": "<strong>Appearance<\/strong>",
+            "text": "<p>Coffee plants are evergreen shrubs or tiny trees that can sprout up to heights of 3 to 30 feet 1 to 9 meters, depending on the species and cultivation practices.<\/p><p>Their dark green leaves are glossy, shaped like ovals, opposite, and have wavy edges.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_xUM4M6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/About_Coffee-Plant-Flowers.webp",
+            "title": "<strong>Flowers<\/strong>",
+            "text": "<p>Clusters of white, fragrant flowers grace the coffee plant. These flowers consist of five petals and a tubular corolla, a signature trait of the Rubiaceae family.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_c8VfMq": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/About_Coffee-Plant-Beans.webp",
+            "title": "<strong>Beans<\/strong>",
+            "text": "<p>The seeds, or beans, are initially green and only turn brown during the roasting process.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_Yw78nw",
+        "column_xUM4M6",
+        "column_c8VfMq"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "circle",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -291,7 +347,8 @@
     "rich_text_JqQait",
     "multirow_d7fXQV",
     "image_with_text_GaMVNK",
-    "multicolumn_MM7QPY",
-    "image_with_text_x4pGtk"
+    "multicolumn_zzKDCj",
+    "image_with_text_x4pGtk",
+    "multicolumn_MM7QPY"
   ]
 }
