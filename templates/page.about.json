@@ -165,6 +165,7 @@
         "column_Yw78nw": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/480CE7DB-6589-443B-97F3-4A739148B1DA.webp",
             "title": "<strong>Plant Origin<\/strong>",
             "text": "<p>Coffee plants are members of the Coffea genus, with the two main commercially important species being Coffea arabica and Coffea canephora, also known as Robusta.<\/p>",
             "link_label": "",
@@ -174,6 +175,7 @@
         "column_xUM4M6": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/BB5ECBBD-6988-41BF-9113-C08638B72047.webp",
             "title": "<strong>Appearance<\/strong>",
             "text": "<p>Coffee plants are shrubs or trees that can reach heights of 3 to 30 feet (1 to 9 meters), based on species and cultivation.<\/p>",
             "link_label": "",
@@ -183,6 +185,7 @@
         "column_c8VfMq": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/733D625F-6A8A-477E-9CA6-5CD308E74DFD.webp",
             "title": "<strong>Shape<\/strong>",
             "text": "<p>Coffee seeds are oval to elongated. They are typically grown in tropical climates around the world.<\/p>",
             "link_label": "",
@@ -192,6 +195,7 @@
         "column_EWQGwU": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/C06B45EE-7A59-4150-9CC7-3A4ADB69E79E.webp",
             "title": "<strong>Size<\/strong>",
             "text": "<p>On average, they measure 0.5 to 1.5 centimeters in length.<\/p>",
             "link_label": "",
@@ -201,6 +205,7 @@
         "column_6B4rWq": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/2ADCA737-0C1A-4D17-AC50-872006124166.webp",
             "title": "<strong>Color<\/strong>",
             "text": "<p>Upon harvest, the seeds are enclosed by a red or purple fruit. Post-processing, the seeds take on a green hue. The transformation to a brown color occurs only after roasting.<\/p>",
             "link_label": "",
