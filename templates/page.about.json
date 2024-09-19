@@ -675,6 +675,54 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "image_with_text_QNc7mr": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_QV7rf9": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Coffee Barista",
+            "heading_size": "h1"
+          }
+        },
+        "text_c3qfgd": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>A coffee barista is a professional who specializes in the art and science of preparing and serving coffee. Here's a detailed description of what being a coffee barista entails:<\/strong><\/p>",
+            "text_style": "subtitle"
+          }
+        },
+        "button_JYVGqf": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_QV7rf9",
+        "text_c3qfgd",
+        "button_JYVGqf"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/About_Barista-Art-Banner.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-5",
+        "color_scheme": "scheme-8e8bb6c2-a643-4976-8ba0-12c678e28427",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -690,6 +738,7 @@
     "image_with_text_iFT3tr",
     "multicolumn_KkL7Td",
     "image_with_text_crrwTm",
-    "multicolumn_mPbeyC"
+    "multicolumn_mPbeyC",
+    "image_with_text_QNc7mr"
   ]
 }
