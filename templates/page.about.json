@@ -723,6 +723,95 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "multicolumn_GXCEJd": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_nFwg9V": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/About_Coffee-Barista-Espresso.webp",
+            "title": "<strong>Espresso<\/strong>",
+            "text": "<p>Making espresso is often the cornerstone of a barista's skill set, requiring precise control over grind size, dose, tamping pressure, and extraction time to achieve the perfect shot.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_YKfpPq": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/About_Coffee-Barista-Brewed.webp",
+            "title": "<strong>Brewed Coffee<\/strong>",
+            "text": "<p>Preparing drip coffee, pour-over, French press, or siphon<br\/>coffee with attention to water temperature, coffee-to-water ratio, and brewing<br\/>time.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_hBQbpA": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/About_Coffee-Barista-Specialty_1cb5b6ff-db63-4d38-894b-218a114a79e4.webp",
+            "title": "<strong>Specialty Drinks<\/strong>",
+            "text": "<p>Crafting lattes, cappuccinos, macchiatos, and other espresso-based beverages, often with latte art for aesthetic appeal.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_4EYHxy": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/About_Coffee-Barista-Order-Taking.webp",
+            "title": "<strong>Order Taking<\/strong>",
+            "text": "<p>Efficiently and accurately taking orders, often under<br\/>pressure during busy times.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_did3B3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/About_Coffee-Barista-Interaction.webp",
+            "title": "<strong>Interaction<\/strong>",
+            "text": "<p>Engaging with customers, explaining menu items, recommending drinks, and ensuring a pleasant experience.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Ay8LF7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/About_Coffee-Barista-Speed.webp",
+            "title": "<strong>Speed and Efficiency<\/strong>",
+            "text": "<p>Balancing quality with speed, especially in high-volume settings.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_nFwg9V",
+        "column_YKfpPq",
+        "column_hBQbpA",
+        "column_4EYHxy",
+        "column_did3B3",
+        "column_Ay8LF7"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "circle",
+        "columns_desktop": 6,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-8e8bb6c2-a643-4976-8ba0-12c678e28427",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -739,6 +828,7 @@
     "multicolumn_KkL7Td",
     "image_with_text_crrwTm",
     "multicolumn_mPbeyC",
-    "image_with_text_QNc7mr"
+    "image_with_text_QNc7mr",
+    "multicolumn_GXCEJd"
   ]
 }
