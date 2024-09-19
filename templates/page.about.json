@@ -617,7 +617,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/About_Coffee-Food-Pairing-Acidity.webp",
             "title": "<strong>Acidity<\/strong>",
-            "text": "<p>High-acidity coffees like Ethiopian Yirgacheffe can cut through rich, fatty foods or complement citrusy or fruity dishes.<\/p>",
+            "text": "<p>Some coffees, such as Ethiopian Yirgacheffe, are high in acidity and can pair well with rich, fatty foods or citrusy, fruity dishes.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -627,7 +627,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/About_Coffee-Food-Pairing-Body.webp",
             "title": "<strong>Body<\/strong>",
-            "text": "<p>Full-bodied coffees like some Sumatran or Brazilian beans) pair well with hearty, robust dishes, providing a satisfying mouthfeel.<\/p>",
+            "text": "<p>Full-bodied coffees such as Sumatran or Brazilian beans complement hearty, robust dishes with a satisfying mouthfeel.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -637,7 +637,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/About_Coffee-Food-Pairing-Sweet.webp",
             "title": "<strong>Sweetness<\/strong>",
-            "text": "<p>Naturally sweet or caramelized notes in coffee can balance out savory or salty foods.<\/p>",
+            "text": "<p>Naturally sweet or caramelized flavors in coffee can complement savory or salty foods.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -647,7 +647,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/About_Coffee-Food-Pairing-Bitterness.webp",
             "title": "<strong>Bitterness<\/strong>",
-            "text": "<p>Dark roasts with their inherent bitterness can contrast with sweet desserts or rich, creamy foods.<\/p>",
+            "text": "<p>Dark roasts can contrast with sweet desserts or rich, creamy foods.<\/p>",
             "link_label": "",
             "link": ""
           }
