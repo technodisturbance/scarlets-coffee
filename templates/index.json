@@ -26,7 +26,7 @@
             "show_text_box": false,
             "text_alignment": "right",
             "image_overlay_opacity": 0,
-            "color_scheme": "scheme-cc4b3c47-0ebd-4242-b475-e144f39cf90d",
+            "color_scheme": "scheme-2",
             "text_alignment_mobile": "center"
           }
         },
@@ -44,7 +44,7 @@
             "show_text_box": false,
             "text_alignment": "right",
             "image_overlay_opacity": 0,
-            "color_scheme": "scheme-cc4b3c47-0ebd-4242-b475-e144f39cf90d",
+            "color_scheme": "scheme-2",
             "text_alignment_mobile": "center"
           }
         },
@@ -62,7 +62,7 @@
             "show_text_box": false,
             "text_alignment": "right",
             "image_overlay_opacity": 0,
-            "color_scheme": "scheme-cc4b3c47-0ebd-4242-b475-e144f39cf90d",
+            "color_scheme": "scheme-2",
             "text_alignment_mobile": "center"
           }
         },
@@ -77,10 +77,10 @@
             "link": "shopify:\/\/collections\/scarlets-coffee-bags",
             "button_style_secondary": false,
             "box_align": "bottom-right",
-            "show_text_box": true,
+            "show_text_box": false,
             "text_alignment": "right",
             "image_overlay_opacity": 0,
-            "color_scheme": "scheme-cc4b3c47-0ebd-4242-b475-e144f39cf90d",
+            "color_scheme": "scheme-2",
             "text_alignment_mobile": "center"
           }
         }
