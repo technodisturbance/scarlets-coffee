@@ -647,7 +647,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/About_Coffee-Food-Pairing-Bitterness.webp",
             "title": "<strong>Bitterness<\/strong>",
-            "text": "<p>Dark roasts can contrast with sweet desserts or rich, creamy foods.<\/p>",
+            "text": "<p><a href=\"\/products\/tuscan-dream-roast\" title=\"Tuscan Dream Roast\">Dark roasts<\/a> can contrast with sweet desserts or rich, creamy foods.<\/p>",
             "link_label": "",
             "link": ""
           }
