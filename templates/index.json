@@ -77,7 +77,7 @@
             "link": "shopify:\/\/collections\/scarlets-coffee-bags",
             "button_style_secondary": false,
             "box_align": "bottom-right",
-            "show_text_box": false,
+            "show_text_box": true,
             "text_alignment": "right",
             "image_overlay_opacity": 0,
             "color_scheme": "scheme-cc4b3c47-0ebd-4242-b475-e144f39cf90d",
@@ -101,7 +101,7 @@
         "auto_rotate": true,
         "change_slides_speed": 5,
         "image_behavior": "none",
-        "show_text_below": false,
+        "show_text_below": true,
         "accessibility_info": "Slideshow about our brand"
       }
     },
@@ -124,7 +124,7 @@
         "show_view_all": true,
         "view_all_style": "solid",
         "enable_desktop_slider": false,
-        "color_scheme": "scheme-cc4b3c47-0ebd-4242-b475-e144f39cf90d",
+        "color_scheme": "scheme-2",
         "image_ratio": "adapt",
         "image_shape": "default",
         "show_secondary_image": false,
