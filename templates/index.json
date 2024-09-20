@@ -144,7 +144,7 @@
           "type": "column",
           "settings": {
             "title": "<strong>Unique Blends & Single Origins<\/strong>",
-            "text": "<p>Discover rare single-origin varieties and masterfully crafted blends that capture the essence of their origins. Every cup tells a rich story of culture, tradition, and unparalleled flavor.<\/p>",
+            "text": "<p>Discover rare <a href=\"\/collections\/single-origin\" title=\"Single Origin\">single-origin varieties<\/a> and <a href=\"\/collections\/unique-blends\" title=\"Unique Blends\">masterfully crafted blends<\/a> that capture the essence of their origins. Every cup tells a rich story of culture, tradition, and unparalleled flavor.<\/p>",
             "link_label": "",
             "link": ""
           }

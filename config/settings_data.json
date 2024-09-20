@@ -141,11 +141,6 @@
         "settings": {
           "color_scheme": "scheme-1"
         }
-      },
-      "our-story": {
-        "type": "our-story",
-        "settings": {
-        }
       }
     },
     "content_for_index": [
