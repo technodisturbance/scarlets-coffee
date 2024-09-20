@@ -105,6 +105,108 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
+    "rich_text_6PtMCm": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_G7KmLV": {
+          "type": "heading",
+          "settings": {
+            "heading": "Why Scarlet's?",
+            "heading_size": "h1"
+          }
+        },
+        "caption_yrXHzF": {
+          "type": "caption",
+          "settings": {
+            "caption": "Crafted with passion, sourced with care – here’s why our coffee stands out.",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        }
+      },
+      "block_order": [
+        "heading_G7KmLV",
+        "caption_yrXHzF"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 36,
+        "padding_bottom": 12
+      }
+    },
+    "multicolumn_wbM83n": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Ywfdmg": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Unique Blends & Single Origins<\/strong>",
+            "text": "<p>Discover rare single-origin varieties and masterfully crafted blends that capture the essence of their origins. Every cup tells a rich story of culture, tradition, and unparalleled flavor.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_HgA7zB": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Freshness & Quality You Can Taste<\/strong>",
+            "text": "<p>Roasted to order, every batch of Scarlet’s Coffee delivers unmatched freshness. From the roaster to your cup, experience the bold, full-bodied flavors that only the freshest coffee can provide.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_hKPRLf": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>A Unique Digital Coffee Experience<\/strong>",
+            "text": "<p>Step into a world beyond the traditional coffee shop. Our website offers an immersive journey with interactive features, engaging stories, and personalized recommendations that make finding your perfect cup an adventure.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_Ywfdmg",
+        "column_HgA7zB",
+        "column_hKPRLf"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Explore Our Coffees",
+        "button_link": "shopify:\/\/collections\/scarlets-coffee-bags",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1725327391968ec0e3": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_featured_carousel_f9BbAk": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "maxwidth": 1080
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_featured_carousel_f9BbAk"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "featured_collection": {
       "type": "featured-collection",
       "custom_css": [
@@ -133,31 +235,16 @@
         "quick_add": "none",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
-        "padding_top": 44,
+        "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "1725327391968ec0e3": {
-      "type": "apps",
-      "blocks": {
-        "judge_me_reviews_featured_carousel_f9BbAk": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "maxwidth": 1080
-          }
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_featured_carousel_f9BbAk"
-      ],
-      "settings": {
-        "include_margins": true
       }
     }
   },
   "order": [
     "slideshow_jmgeMX",
-    "featured_collection",
-    "1725327391968ec0e3"
+    "rich_text_6PtMCm",
+    "multicolumn_wbM83n",
+    "1725327391968ec0e3",
+    "featured_collection"
   ]
 }
