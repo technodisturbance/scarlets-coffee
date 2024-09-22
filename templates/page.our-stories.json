@@ -39,10 +39,66 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "slideshow_Hn6y98": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_3priNW": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Our-Story_Brand-Identity.webp",
+            "heading": "<strong>Brand Origin<\/strong>",
+            "heading_size": "h1",
+            "subheading": "<em>Scarlet’s Coffee<\/em> began as a <strong>passion project<\/strong> fueled by our love for coffee and a desire to create something truly unique. We didn’t just want to sell coffee; we wanted to build an <strong>experience<\/strong> that connects people to a world of wonder and storytelling. The moment we discovered the name “Scarlet’s Coffee,” the brand’s identity came alive, bringing with it a vision of lore, adventure, and connection. It was as if the brand had been waiting to be discovered, and from that spark, we felt compelled to bring this <strong>magical vision<\/strong> to life.",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_AQUYtr": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Our-Story_Core-Values-_-Mission.webp",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_3priNW",
+        "slide_AQUYtr"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
     }
   },
   "order": [
     "main",
-    "rich_text_JqQait"
+    "rich_text_JqQait",
+    "slideshow_Hn6y98"
   ]
 }
