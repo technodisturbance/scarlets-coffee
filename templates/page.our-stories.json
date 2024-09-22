@@ -34,7 +34,7 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "scheme-3",
+        "color_scheme": "scheme-1",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
@@ -59,6 +59,7 @@
         },
         "button_EpcjWi": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Button label",
             "button_link": "",
@@ -78,9 +79,9 @@
         "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
+        "content_layout": "overlap",
+        "section_color_scheme": "scheme-eba8092b-4db5-4d1a-aaf4-934a4b38421e",
+        "color_scheme": "scheme-2",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
@@ -106,6 +107,7 @@
         },
         "button_kiTWDD": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Button label",
             "button_link": "",
@@ -125,9 +127,201 @@
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
+        "content_layout": "overlap",
+        "section_color_scheme": "scheme-eba8092b-4db5-4d1a-aaf4-934a4b38421e",
+        "color_scheme": "scheme-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_rbkAc3": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_7fPDBn": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Challenges Faced<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_CtnpxD": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Starting Scarlet’s Coffee was a journey full of challenges—balancing our creative vision with the practicalities of running a business, wearing many hats, and ensuring our coffee met the highest standards. Each step required <strong>patience<\/strong>, <strong>dedication<\/strong>, and countless iterations to refine our offerings. We overcame these obstacles through <strong>relentless research<\/strong>, <strong>unwavering commitment<\/strong>, and a passion for our craft. Every challenge has shaped Scarlet’s Coffee into what it is today, making it better with each step forward.<\/p>",
+            "text_style": "subtitle"
+          }
+        },
+        "button_gXbjBt": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_7fPDBn",
+        "text_CtnpxD",
+        "button_gXbjBt"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Our-Story_Challenges-Faced.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "section_color_scheme": "scheme-eba8092b-4db5-4d1a-aaf4-934a4b38421e",
+        "color_scheme": "scheme-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_QgAYWp": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_KtMfYm": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>The Unique Touch<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_QgF6TV": {
+          "type": "text",
+          "settings": {
+            "text": "<p>What sets Scarlet’s Coffee apart is our commitment to <strong>freshness <\/strong>and <strong>storytelling<\/strong>. Every coffee is roasted to order, ensuring the <strong>freshest,  small-batch, craft-roasted <\/strong>experience possible. But we go beyond just the coffee—we weave rich lore and stories into every product, making each purchase memorable and meaningful. Our brand is built on <strong>elegance<\/strong>, <strong>simplicity<\/strong>, and an <strong>adventurous spirit<\/strong>, where every coffee tells a tale and invites you into an ever-expanding world of discovery. Our themed collections allow you to drink the same coffees that are part of our stories, deepening the connection between you and our magical world.<\/p>",
+            "text_style": "subtitle"
+          }
+        },
+        "button_Rw7yQx": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_KtMfYm",
+        "text_QgF6TV",
+        "button_Rw7yQx"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Our-Story_The-Unique-Touch-02.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "section_color_scheme": "scheme-eba8092b-4db5-4d1a-aaf4-934a4b38421e",
+        "color_scheme": "scheme-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_icEL38": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_9DhtQd": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Community & Impact<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_dNy4EQ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Scarlet’s Coffee connects with our community through storytelling and engagement on social media, creating a space where everyone can share in the magic. Our commitment to giving back is woven into our brand values; for every pound of coffee sold, we fund the planting of a tree through the <em>‘Trees for Education Program,’ <\/em>supporting children's education in Kenya and fostering sustainability. We believe in building something bigger than ourselves, where each cup of coffee contributes to a positive impact, bringing our community closer together.<\/p>",
+            "text_style": "subtitle"
+          }
+        },
+        "button_WYfeLJ": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_9DhtQd",
+        "text_dNy4EQ",
+        "button_WYfeLJ"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Our-Story_Community-_-Impact.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "section_color_scheme": "scheme-eba8092b-4db5-4d1a-aaf4-934a4b38421e",
+        "color_scheme": "scheme-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_L7EYde": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_t8FgGM": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Future Vision<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_9VgwcV": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The future of Scarlet’s Coffee is one of continuous exploration and expansion. We aim to grow our product line while maintaining the high standards that define our brand, reaching coffee lovers worldwide. Our vision is to weave storytelling into every facet of our offerings, creating themed collections that blend merchandise and coffee in ways that immerse you deeper into our narrative universe. We want to leave a legacy of <strong>wonder<\/strong>, rekindling <strong>creativity <\/strong>and <strong>magic <\/strong>within our customers, lifting spirits, and making each day an adventure worth savoring.<\/p>",
+            "text_style": "subtitle"
+          }
+        },
+        "button_f9hUYi": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_t8FgGM",
+        "text_9VgwcV",
+        "button_f9hUYi"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Our-Story_Future-Vision.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "section_color_scheme": "scheme-eba8092b-4db5-4d1a-aaf4-934a4b38421e",
+        "color_scheme": "scheme-2",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
@@ -139,6 +333,10 @@
     "main",
     "rich_text_JqQait",
     "image_with_text_feq4YG",
-    "image_with_text_TUWqwW"
+    "image_with_text_TUWqwW",
+    "image_with_text_rbkAc3",
+    "image_with_text_QgAYWp",
+    "image_with_text_icEL38",
+    "image_with_text_L7EYde"
   ]
 }
