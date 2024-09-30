@@ -204,7 +204,7 @@
     "featured_collection_LW8pfn": {
       "type": "featured-collection",
       "settings": {
-        "title": "{{ section.settings.collection.title }}",
+        "title": "Best Selling Brews!",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
