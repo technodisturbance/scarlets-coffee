@@ -9,8 +9,32 @@
 */
 {
   "sections": {
+    "rich_text_Dd3EVG": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Ygx7Cy": {
+          "type": "heading",
+          "settings": {
+            "heading": "{{ page.title }}",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Ygx7Cy"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "main": {
       "type": "main-page",
+      "disabled": true,
       "custom_css": [
 
       ],
@@ -37,6 +61,7 @@
     }
   },
   "order": [
+    "rich_text_Dd3EVG",
     "main",
     "172766626176ca6862"
   ]
