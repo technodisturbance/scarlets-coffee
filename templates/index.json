@@ -136,7 +136,8 @@
         "caption_yrXHzF"
       ],
       "custom_css": [
-        "h3 {color: red;}"
+        "h2 {color: red;}",
+        ".inline-richtext {color: black;}"
       ],
       "settings": {
         "desktop_content_position": "center",
