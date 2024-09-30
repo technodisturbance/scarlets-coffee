@@ -249,6 +249,33 @@
       "settings": {
         "include_margins": true
       }
+    },
+    "rich_text_EtPWhY": {
+      "type": "rich-text",
+      "blocks": {
+        "button_LyC9aK": {
+          "type": "button",
+          "settings": {
+            "button_label": "All Reviews",
+            "button_link": "shopify://pages/happy-customers",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "button_LyC9aK"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
     }
   },
   "order": [
@@ -256,6 +283,7 @@
     "rich_text_6PtMCm",
     "multicolumn_wbM83n",
     "featured_collection",
-    "1725327391968ec0e3"
+    "1725327391968ec0e3",
+    "rich_text_EtPWhY"
   ]
 }
