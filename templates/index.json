@@ -15,12 +15,12 @@
         "slide_bxTJFM": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Default_Create_a_hyperrealistic_cinematic_magical_featuring_a_0_2_e614b4c8-4049-4a36-ac1e-eca64fac9614.jpg",
+            "image": "shopify://shop_images/Default_Create_a_hyperrealistic_cinematic_magical_featuring_a_0_2_e614b4c8-4049-4a36-ac1e-eca64fac9614.jpg",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
             "button_label": "Shop our Coffee",
-            "link": "shopify:\/\/collections\/scarlets-coffee-bags",
+            "link": "shopify://collections/scarlets-coffee-bags",
             "button_style_secondary": false,
             "box_align": "bottom-right",
             "show_text_box": false,
@@ -33,12 +33,12 @@
         "slide_W9Faef": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Leonardo_Lightning_Create_a_hyperrealistic_cinematic_magical_f_0_88ed3885-c767-4d24-95fc-e31a5c0b5b5b.jpg",
+            "image": "shopify://shop_images/Leonardo_Lightning_Create_a_hyperrealistic_cinematic_magical_f_0_88ed3885-c767-4d24-95fc-e31a5c0b5b5b.jpg",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
             "button_label": "Shop our Coffee",
-            "link": "shopify:\/\/collections\/scarlets-coffee-bags",
+            "link": "shopify://collections/scarlets-coffee-bags",
             "button_style_secondary": false,
             "box_align": "bottom-right",
             "show_text_box": false,
@@ -51,12 +51,12 @@
         "slide_ieVRQ7": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Leonardo_Phoenix_Create_a_hyperrealistic_cinematic_magical_and_12_df438aa0-d832-4c7e-a08a-106b4c55c8df.jpg",
+            "image": "shopify://shop_images/Leonardo_Phoenix_Create_a_hyperrealistic_cinematic_magical_and_12_df438aa0-d832-4c7e-a08a-106b4c55c8df.jpg",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
             "button_label": "Shop our Coffee",
-            "link": "shopify:\/\/collections\/scarlets-coffee-bags",
+            "link": "shopify://collections/scarlets-coffee-bags",
             "button_style_secondary": false,
             "box_align": "bottom-right",
             "show_text_box": false,
@@ -69,12 +69,12 @@
         "slide_bByQRw": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Default_Create_a_hyperrealistic_cinematic_magical_featuring_a_0_1_ca8159af-09fe-477a-941e-0f82cf2354c7.jpg",
+            "image": "shopify://shop_images/Default_Create_a_hyperrealistic_cinematic_magical_featuring_a_0_1_ca8159af-09fe-477a-941e-0f82cf2354c7.jpg",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
             "button_label": "Shop our Coffee",
-            "link": "shopify:\/\/collections\/scarlets-coffee-bags",
+            "link": "shopify://collections/scarlets-coffee-bags",
             "button_style_secondary": false,
             "box_align": "bottom-right",
             "show_text_box": false,
@@ -115,6 +115,12 @@
             "heading_size": "h1"
           }
         },
+        "text_LFDR4w": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Roasted Fresh for Every Order – Crafted Just for You in Real Time</h2>"
+          }
+        },
         "caption_yrXHzF": {
           "type": "caption",
           "settings": {
@@ -126,7 +132,11 @@
       },
       "block_order": [
         "heading_G7KmLV",
+        "text_LFDR4w",
         "caption_yrXHzF"
+      ],
+      "custom_css": [
+        "h3 {color: red;}"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -143,8 +153,8 @@
         "column_Ywfdmg": {
           "type": "column",
           "settings": {
-            "title": "<strong>Unique Blends & Single Origins<\/strong>",
-            "text": "<p>Discover rare <a href=\"\/collections\/single-origin\" title=\"Single Origin\">single-origin varieties<\/a> and <a href=\"\/collections\/unique-blends\" title=\"Unique Blends\">masterfully crafted blends<\/a> that capture the essence of their origins. Every cup tells a rich story of culture, tradition, and unparalleled flavor.<\/p>",
+            "title": "<strong>Unique Blends & Single Origins</strong>",
+            "text": "<p>Discover rare <a href=\"/collections/single-origin\" title=\"Single Origin\">single-origin varieties</a> and <a href=\"/collections/unique-blends\" title=\"Unique Blends\">masterfully crafted blends</a> that capture the essence of their origins. Every cup tells a rich story of culture, tradition, and unparalleled flavor.</p>",
             "link_label": "",
             "link": ""
           }
@@ -152,8 +162,8 @@
         "column_HgA7zB": {
           "type": "column",
           "settings": {
-            "title": "<strong>Freshness & Quality You Can Taste<\/strong>",
-            "text": "<p>Roasted to order, every batch of Scarlet’s Coffee delivers unmatched freshness. From the roaster to your cup, experience the bold, full-bodied flavors that only the freshest coffee can provide.<\/p>",
+            "title": "<strong>Freshness & Quality You Can Taste</strong>",
+            "text": "<p>Roasted to order, every batch of Scarlet’s Coffee delivers unmatched freshness. From the roaster to your cup, experience the bold, full-bodied flavors that only the freshest coffee can provide.</p>",
             "link_label": "",
             "link": ""
           }
@@ -161,8 +171,8 @@
         "column_hKPRLf": {
           "type": "column",
           "settings": {
-            "title": "<strong>A Unique Digital Coffee Experience<\/strong>",
-            "text": "<p>Step into a world beyond the traditional coffee shop. Our website offers an immersive journey with interactive features, engaging stories, and personalized recommendations that make finding your perfect cup an adventure.<\/p>",
+            "title": "<strong>A Unique Digital Coffee Experience</strong>",
+            "text": "<p>Step into a world beyond the traditional coffee shop. Our website offers an immersive journey with interactive features, engaging stories, and personalized recommendations that make finding your perfect cup an adventure.</p>",
             "link_label": "",
             "link": ""
           }
@@ -182,7 +192,7 @@
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "Explore Our Coffees",
-        "button_link": "shopify:\/\/collections\/scarlets-coffee-bags",
+        "button_link": "shopify://collections/scarlets-coffee-bags",
         "color_scheme": "",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
@@ -226,7 +236,7 @@
       "type": "apps",
       "blocks": {
         "judge_me_reviews_featured_carousel_f9BbAk": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "type": "shopify://apps/judge-me-reviews/blocks/featured_carousel/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {
             "maxwidth": 1080
           }
