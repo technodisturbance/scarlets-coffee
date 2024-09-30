@@ -236,8 +236,8 @@
         "@media only screen and (min-width: 768px) {h3 {font-size: 20px; }}"
       ],
       "settings": {
-        "title": "",
-        "heading_size": "h2",
+        "title": "All Things Coffee!",
+        "heading_size": "h1",
         "description": "",
         "show_description": false,
         "description_style": "body",
