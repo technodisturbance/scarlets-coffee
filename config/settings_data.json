@@ -9,9 +9,9 @@
 */
 {
   "current": {
-    "logo": "shopify:\/\/shop_images\/SCARLETS_LOGO_PRODUCTION_1024_STM_a9a8f446-6557-4df1-8a5e-542029aa1383.png",
+    "logo": "shopify://shop_images/SCARLETS_LOGO_PRODUCTION_1024_STM_a9a8f446-6557-4df1-8a5e-542029aa1383.png",
     "logo_width": 300,
-    "favicon": "shopify:\/\/shop_images\/favicon-32x32.png",
+    "favicon": "shopify://shop_images/favicon-32x32.png",
     "type_header_font": "century_gothic_n4",
     "heading_scale": 100,
     "type_body_font": "futura_n5",
@@ -108,18 +108,18 @@
     "sale_badge_color_scheme": "scheme-4",
     "sold_out_badge_color_scheme": "scheme-3",
     "brand_headline": "Scarlets Coffee, A Unique High End Coffee Store, bringing you exquisite custom coffee blends   from around the World.",
-    "brand_description": "<p>Scarlets Coffee, A Unique High End Coffee Store, bringing you exquisite custom coffee blends   from around the World.<\/p>",
-    "brand_image": "shopify:\/\/shop_images\/SCARLETS_LOGO_PRODUCTION_1024_STM_41a9b91a-a25b-4200-a6a1-8859950e9b15.png",
+    "brand_description": "<p>Scarlets Coffee, A Unique High End Coffee Store, bringing you exquisite custom coffee blends   from around the World.</p>",
+    "brand_image": "shopify://shop_images/SCARLETS_LOGO_PRODUCTION_1024_STM_41a9b91a-a25b-4200-a6a1-8859950e9b15.png",
     "brand_image_width": 100,
-    "social_facebook_link": "https:\/\/www.facebook.com\/ScarletsCoffeeStore",
-    "social_instagram_link": "https:\/\/www.instagram.com\/scarlets_coffee\/",
-    "social_youtube_link": "https:\/\/www.youtube.com\/@ScarletsCoffee",
-    "social_tiktok_link": "https:\/\/www.tiktok.com\/@scarlets_coffee",
-    "social_twitter_link": "https:\/\/twitter.com\/scarlets_coffee",
-    "social_snapchat_link": "https:\/\/www.snapchat.com\/add\/scarlets_coffee",
-    "social_pinterest_link": "https:\/\/www.pinterest.com\/scarlets_coffee\/",
-    "social_tumblr_link": "https:\/\/www.tumblr.com\/blog\/scarlets-coffee",
-    "social_vimeo_link": "https:\/\/vimeo.com\/scarletscoffee",
+    "social_facebook_link": "https://www.facebook.com/ScarletsCoffeeStore",
+    "social_instagram_link": "https://www.instagram.com/scarlets_coffee/",
+    "social_youtube_link": "https://www.youtube.com/@ScarletsCoffee",
+    "social_tiktok_link": "https://www.tiktok.com/@scarlets_coffee",
+    "social_twitter_link": "https://twitter.com/scarlets_coffee",
+    "social_snapchat_link": "https://www.snapchat.com/add/scarlets_coffee",
+    "social_pinterest_link": "https://www.pinterest.com/scarlets_coffee/",
+    "social_tumblr_link": "https://www.tumblr.com/blog/scarlets-coffee",
+    "social_vimeo_link": "https://vimeo.com/scarletscoffee",
     "predictive_search_enabled": true,
     "predictive_search_show_vendor": true,
     "predictive_search_show_price": true,
@@ -127,7 +127,7 @@
     "cart_type": "drawer",
     "show_vendor": false,
     "show_cart_note": false,
-    "cart_drawer_collection": "",
+    "cart_drawer_collection": "best-sellers",
     "cart_color_scheme": "scheme-1",
     "sections": {
       "main-password-header": {
@@ -148,7 +148,7 @@
     ],
     "blocks": {
       "14060646107696862457": {
-        "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "type": "shopify://apps/judge-me-reviews/blocks/judgeme_core/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
         "disabled": false,
         "settings": {
         }
@@ -423,7 +423,7 @@
       "sale_badge_color_scheme": "scheme-4",
       "sold_out_badge_color_scheme": "scheme-3",
       "brand_headline": "",
-      "brand_description": "<p><\/p>",
+      "brand_description": "<p></p>",
       "brand_image_width": 100,
       "social_twitter_link": "",
       "social_facebook_link": "",
